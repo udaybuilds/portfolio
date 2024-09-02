@@ -50,13 +50,13 @@ const LandingPage = () => {
         <div className="container mx-auto px-6 flex justify-between items-center">
           <p>&copy; 2024 Uday. All rights reserved.</p>
           <div className="flex space-x-6">
-            <a href="#" className="hover:text-gray-400 transform transition-transform hover:scale-110">
+            <a href="https://github.com/udaybuilds" className="hover:text-gray-400 transform transition-transform hover:scale-110">
               <GithubIcon size={24} />
             </a>
-            <a href="#" className="hover:text-gray-400 transform transition-transform hover:scale-110">
+            <a href="www.linkedin.com/in/uday-u-08956617b" className="hover:text-gray-400 transform transition-transform hover:scale-110">
               <LinkedinIcon size={24} />
             </a>
-            <a href="#" className="hover:text-gray-400 transform transition-transform hover:scale-110">
+            <a href="udaysrivastava0@gmail.com" className="hover:text-gray-400 transform transition-transform hover:scale-110">
               <MailIcon size={24} />
             </a>
           </div>
