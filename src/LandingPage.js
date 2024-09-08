@@ -37,7 +37,7 @@ const LandingPage = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div className="bg-white p-8 rounded-lg shadow-lg transform transition-transform hover:scale-105">
               <h3 className="text-2xl font-semibold mb-3">Note Keeper</h3>
-              <p><a href="https://udaybuilds.github.io/Keeper-React-App/" style={{ textDecoration: 'none', color: 'Blue' }}>Note Keeper Application</a></p>
+              <p><a href="https://udaybuilds.github.io/Keeper-React-App/" style={{ textDecoration: 'none', color: 'Blue' }}>Note Keeper Application maintained on Azure CI/CD pipeline</a></p>
             </div>
             <div className="bg-white p-8 rounded-lg shadow-lg transform transition-transform hover:scale-105">
               <h3 className="text-2xl font-semibold mb-3">Youtube Clone Hosted on Azure App Services</h3>
@@ -48,7 +48,11 @@ const LandingPage = () => {
         <section className="mb-16">
           <h2 className="text-3xl font-semibold mb-6">Resume</h2>
           <p className="text-xl leading-relaxed">
-            <a href="./UDAY_RESUME.PDF">Resume</a>
+          <a
+        href="https://github.com/udaybuilds/portfolio/raw/main/src/UDAY_RESUME.pdf"
+        download="Uday_Resume.pdf"
+        style={{ textDecoration: 'none', color: 'blue' }}
+      >Resume</a>
           </p>
         </section>
       </main>
