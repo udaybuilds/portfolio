@@ -53,10 +53,10 @@ const LandingPage = () => {
             <a href="https://github.com/udaybuilds" className="hover:text-gray-400 transform transition-transform hover:scale-110">
               <GithubIcon size={24} />
             </a>
-            <a href="www.linkedin.com/in/uday-u-08956617b" className="hover:text-gray-400 transform transition-transform hover:scale-110">
+            <a href="https://www.linkedin.com/in/uday-u-08956617b/" className="hover:text-gray-400 transform transition-transform hover:scale-110">
               <LinkedinIcon size={24} />
             </a>
-            <a href="udaysrivastava0@gmail.com" className="hover:text-gray-400 transform transition-transform hover:scale-110">
+            <a href="https://mail.google.com/mail/#inbox?compose=new" className="hover:text-gray-400 transform transition-transform hover:scale-110">
               <MailIcon size={24} />
             </a>
           </div>
