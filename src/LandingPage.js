@@ -16,19 +16,19 @@ const LandingPage = () => {
         <section className="mb-16">
           <h2 className="text-3xl font-semibold mb-6">Portfolio</h2>
           <p className="text-xl leading-relaxed">
-            I am a Cloud & DevOps Engineer with expertise in Cloud Architecture Design, providing scalable and secure solutions.
+            I am a Software Development Engineer with expertise in Python programming , Data Structures Algorithms and Scalable System Design , providing scalable and secure solutions.
           </p>
         </section>
 
         <section className="mb-16">
           <h2 className="text-3xl font-semibold mb-6">My Skills</h2>
           <ul className="list-disc list-inside text-lg space-y-2">
-            <li>Azure DevOps</li>
-            <li>Jenkins</li>
-            <li>AWS</li>
-            <li>Terraform</li>
-            <li>Grafana</li>
-            <li>Data Structure and Algorithms</li>
+            <li>Data Structure</li>
+            <li>Algorithms</li>
+            <li>System Design</li>
+            <li>Python Full Stack</li>
+            <li>DevOps (Azure DevOps , Jenkins, Docker and Terraform)</li>
+            <li>Database</li>
           </ul>
         </section>
 
