@@ -8,7 +8,7 @@ const LandingPage = () => {
       <header className="bg-gradient-to-r from-blue-600 to-purple-600 text-white shadow-lg">
         <div className="container mx-auto px-6 py-8">
           <h1 className="text-4xl font-extrabold tracking-wide">Uday</h1>
-          <p className="text-lg text-blue-200">Cloud and DevOps Engineer</p>
+          <p className="text-lg text-blue-200">Python Fullstack Engineer</p>
         </div>
       </header>
 
